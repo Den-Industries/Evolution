@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **2D-симуляция искусственной жизни**, где многоклеточные организмы собирают ресурсы, обмениваются веществами, размножаются и эволюционируют под давлением естественного отбора.  
-Вдохновлена проектом [The Life Engine](https://thelifeengine.net/).
 
 <p align="center">
   <img src="screenshot.png" alt="Скриншот симуляции" width="80%">
